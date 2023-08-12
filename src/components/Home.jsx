@@ -1,9 +1,10 @@
 
+// components
+import SwipeDrawer from './SwipeDrawer';
 
-
-const Home =()=>{
+const Home = () => {
     return(
-        "Hello"
+        <SwipeDrawer/>
     )
 }
-export default Home;
+export default Home; 
